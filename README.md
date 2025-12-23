@@ -28,7 +28,7 @@ It automatically segregates URLs from a list into separate files based on `gf` t
 
 ```bash
 git clone https://github.com/yourusername/GF-Sorter.git
-cd GF-Sorter
+cd Link-Segregation-for-bug-bounty
 ```
 
 2. Make the script executable:
