@@ -1,6 +1,6 @@
-# GF Sorter
+# Link Segregation through gf
 
-GF Sorter is a simple yet powerful tool for bug bounty hunters and penetration testers.  
+GF Segration is a simple yet powerful tool for bug bounty hunters and penetration testers.  
 It automatically segregates URLs from a list into separate files based on `gf` templates, making reconnaissance and vulnerability hunting faster and more organized.
 
 ---
